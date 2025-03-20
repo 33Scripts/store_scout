@@ -1,0 +1,262 @@
+{
+  "electronics": [
+    {
+      "name": "Smartphone",
+      "price": "$699",
+      "rating": "4.5",
+      "description": "Cutting-edge features in a compact design."
+    },
+    {
+      "name": "Wireless Headphones",
+      "price": "$199",
+      "rating": "4.7",
+      "description": "Clear sound and noise cancellation."
+    },
+    {
+      "name": "Laptop",
+      "price": "$1299",
+      "rating": "4.6",
+      "description": "Powerful performance for work and play."
+    },
+    {
+      "name": "Smartwatch",
+      "price": "$249",
+      "rating": "4.3",
+      "description": "Stay connected on the go."
+    }
+  ],
+  "clothing": [
+    {
+      "name": "Jeans",
+      "price": "$49",
+      "rating": "4.2",
+      "description": "Comfortable fit with a modern cut."
+    },
+    {
+      "name": "T-shirt",
+      "price": "$19",
+      "rating": "4.0",
+      "description": "Casual wear with quality fabric."
+    },
+    {
+      "name": "Jacket",
+      "price": "$89",
+      "rating": "4.5",
+      "description": "Stylish and warm for cooler days."
+    },
+    {
+      "name": "Sneakers",
+      "price": "$75",
+      "rating": "4.4",
+      "description": "Durable and comfortable for everyday use."
+    }
+  ],
+  "home": [
+    {
+      "name": "Coffee Maker",
+      "price": "$89",
+      "rating": "4.3",
+      "description": "Brew your perfect cup every morning."
+    },
+    {
+      "name": "Blender",
+      "price": "$59",
+      "rating": "4.1",
+      "description": "Powerful blending for healthy smoothies."
+    },
+    {
+      "name": "Vacuum Cleaner",
+      "price": "$150",
+      "rating": "4.2",
+      "description": "Keep your home spotless effortlessly."
+    },
+    {
+      "name": "Air Purifier",
+      "price": "$120",
+      "rating": "4.5",
+      "description": "Improve indoor air quality easily."
+    }
+  ],
+  "sports": [
+    {
+      "name": "Running Shoes",
+      "price": "$120",
+      "rating": "4.6",
+      "description": "Lightweight and durable for everyday runs."
+    },
+    {
+      "name": "Yoga Mat",
+      "price": "$35",
+      "rating": "4.4",
+      "description": "Non-slip surface with comfortable cushioning."
+    },
+    {
+      "name": "Dumbbells",
+      "price": "$50",
+      "rating": "4.3",
+      "description": "Versatile weights for strength training."
+    },
+    {
+      "name": "Sports Watch",
+      "price": "$99",
+      "rating": "4.5",
+      "description": "Track your workouts and monitor progress."
+    }
+  ],
+  "books": [
+    {
+      "name": "Mystery Novel",
+      "price": "$15",
+      "rating": "4.5",
+      "description": "Engaging plot with unexpected twists."
+    },
+    {
+      "name": "Science Fiction",
+      "price": "$20",
+      "rating": "4.7",
+      "description": "Futuristic narrative with deep insights."
+    },
+    {
+      "name": "Self-help Book",
+      "price": "$18",
+      "rating": "4.3",
+      "description": "Practical tips for personal growth."
+    },
+    {
+      "name": "Biography",
+      "price": "$22",
+      "rating": "4.4",
+      "description": "Inspiring life story of a notable figure."
+    }
+  ],
+  "toys": [
+    {
+      "name": "Building Blocks",
+      "price": "$25",
+      "rating": "4.8",
+      "description": "Stimulate creativity with colorful blocks."
+    },
+    {
+      "name": "Remote Control Car",
+      "price": "$40",
+      "rating": "4.3",
+      "description": "Fast and fun with easy controls."
+    },
+    {
+      "name": "Puzzle",
+      "price": "$15",
+      "rating": "4.5",
+      "description": "Challenging and engaging for all ages."
+    },
+    {
+      "name": "Action Figure",
+      "price": "$30",
+      "rating": "4.4",
+      "description": "Highly detailed with movable parts."
+    }
+  ],
+  "beauty": [
+    {
+      "name": "Face Cream",
+      "price": "$30",
+      "rating": "4.2",
+      "description": "Hydrating formula for smooth skin."
+    },
+    {
+      "name": "Lipstick",
+      "price": "$15",
+      "rating": "4.5",
+      "description": "Long-lasting color with a sleek finish."
+    },
+    {
+      "name": "Perfume",
+      "price": "$45",
+      "rating": "4.6",
+      "description": "Elegant fragrance for any occasion."
+    },
+    {
+      "name": "Nail Polish",
+      "price": "$10",
+      "rating": "4.3",
+      "description": "Vibrant color with a glossy finish."
+    }
+  ],
+  "automotive": [
+    {
+      "name": "Car Vacuum",
+      "price": "$35",
+      "rating": "4.2",
+      "description": "Compact and powerful for quick cleanups."
+    },
+    {
+      "name": "Dash Cam",
+      "price": "$80",
+      "rating": "4.5",
+      "description": "High-definition recording for safety."
+    },
+    {
+      "name": "GPS Navigator",
+      "price": "$120",
+      "rating": "4.4",
+      "description": "Accurate and reliable for all trips."
+    },
+    {
+      "name": "Car Cover",
+      "price": "$50",
+      "rating": "4.3",
+      "description": "Protects your vehicle from the elements."
+    }
+  ],
+  "gardening": [
+    {
+      "name": "Lawn Mower",
+      "price": "$250",
+      "rating": "4.4",
+      "description": "Efficient cutting for a well-manicured lawn."
+    },
+    {
+      "name": "Garden Hose",
+      "price": "$30",
+      "rating": "4.2",
+      "description": "Durable and kink-resistant design."
+    },
+    {
+      "name": "Pruning Shears",
+      "price": "$20",
+      "rating": "4.5",
+      "description": "Sharp and precise for garden care."
+    },
+    {
+      "name": "Potting Soil",
+      "price": "$15",
+      "rating": "4.3",
+      "description": "Rich soil mix for healthy plant growth."
+    }
+  ],
+  "office": [
+    {
+      "name": "Office Chair",
+      "price": "$150",
+      "rating": "4.4",
+      "description": "Ergonomic design for maximum comfort."
+    },
+    {
+      "name": "Standing Desk",
+      "price": "$300",
+      "rating": "4.6",
+      "description": "Adjustable height for a healthier workday."
+    },
+    {
+      "name": "Monitor",
+      "price": "$200",
+      "rating": "4.5",
+      "description": "High-resolution display for crisp visuals."
+    },
+    {
+      "name": "Keyboard",
+      "price": "$50",
+      "rating": "4.3",
+      "description": "Responsive keys for efficient typing."
+    }
+  ]
+}

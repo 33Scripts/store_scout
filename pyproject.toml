@@ -1,0 +1,21 @@
+[project]
+name = "store-scout"
+version = "1.0.0"
+description = "A recommendation system that searches products from categories in a JSON dataset."
+authors = [
+    {name = "33Scripts",email = "spatrick0710@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+]
+package-mode = false
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 120
