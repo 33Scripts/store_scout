@@ -28,8 +28,13 @@ Store Scout is a Python-based product recommendation system that allows users to
 3. **Set Up Environment:**
 
    Ensure you have Python 3.8 or later installed.
+   This project uses [Poetry](https://python-poetry.org/) for dependency management and packaging. Even though no third-party dependencies are required, you can set up the environment with:
+   
+   ```bash
+   poetry install --no-root
+   ```
 
-4. **Run the Application:**
+5. **Run the Application:**
 
    ```bash
    python src/main.py
